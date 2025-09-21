@@ -22,13 +22,13 @@ go run main.go
 
 3. Введите фразу в консоль. Например:
 
-```Golang
+```bash
 Enter your phrase:
 Hello, world! This is Go.
 ```
 
 Результат:
 
-```Golang
+```bash
 Word count: 5
 ```
